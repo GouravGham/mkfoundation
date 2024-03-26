@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mkfoundation/static/css/main.847e409e.css",
+    "main.js": "/mkfoundation/static/js/main.702f099e.js",
+    "static/media/vision.jpg": "/mkfoundation/static/media/vision.92d413e52226bdafd04a.jpg",
+    "static/media/lets-talk.jpg": "/mkfoundation/static/media/lets-talk.1ceefb1fbdd97bbfae28.jpg",
+    "static/media/logo.jpg": "/mkfoundation/static/media/logo.48b44d7a84d0e418bb6f.jpg",
+    "static/media/abc (2).jpg": "/mkfoundation/static/media/abc (2).2b9f083c0c67fd0474f6.jpg",
+    "static/media/abc (3).jpg": "/mkfoundation/static/media/abc (3).196cab2b3a43bda243be.jpg",
+    "static/media/abc (4).jpg": "/mkfoundation/static/media/abc (4).9b7cdf791a3576d07621.jpg",
+    "static/media/abc (1).jpg": "/mkfoundation/static/media/abc (1).c3c4e6ce164eafa02bff.jpg",
+    "index.html": "/mkfoundation/index.html",
+    "main.847e409e.css.map": "/mkfoundation/static/css/main.847e409e.css.map",
+    "main.702f099e.js.map": "/mkfoundation/static/js/main.702f099e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.847e409e.css",
+    "static/js/main.702f099e.js"
+  ]
+}
